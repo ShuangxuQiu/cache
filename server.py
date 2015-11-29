@@ -31,11 +31,11 @@ while 1:
     client_socket, address = s.accept()
 
     # Obtem a requisicao do cliente
-    request = client_socket.recv(config.MAX_REQUEST_LENGTH)
+    request = client_socket.recv(config.MAX_REQUEST_LENGTH).decode('utf8')
 
     # Envia a resposta ao cliente (informacao relativa a requisicao)
     if request in table_data:
-        client_socket.send(table_data[request])
+        client_socket.send(table_data[request].encode('utf8'))
     # Se nao houver nada definido para a requisicao, envia a string "Undefined"
     else:
-        client_socket.send(b"Undefined")
+        client_socket.send(("Undefined").encode('utf8'))

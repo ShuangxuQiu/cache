@@ -8,6 +8,9 @@ SERVER_DATAFILE = "table.data"
 # Tamanho da tabela cache
 CACHE_TABLE_SIZE = 16
 
+# Tempo de validade das entradas da cache
+CACHE_EXPIRATION_TIME = 10
+
 # Tamanho maximo da string de requisicao
 MAX_REQUEST_LENGTH = 128
 
