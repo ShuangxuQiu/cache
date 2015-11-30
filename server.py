@@ -57,8 +57,9 @@ while 1:
     # Envia a resposta ao cliente (informacao relativa a requisicao)
     if request in table_data:
         client_socket.send(table_data[request].encode('utf8'))
-    # Se nao houver nada definido para a requisicao, envia a string "Undefined"
+    # Se nao houver nada definido para a requisicao, envia a string
+    # definida no arquivo de configuracao
     else:
-        client_socket.send(("Undefined").encode('utf8'))
+        client_socket.send(config.MESSAGE_REQUEST_NOT_FOUND.encode('utf8'))
 
     print('Feito!')

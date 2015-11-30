@@ -16,3 +16,6 @@ MAX_REQUEST_LENGTH = 128
 
 # Tamanho maximo de cada informacao
 MAX_INFO_LENGTH = 256
+
+# Mensagem a ser enviada quando a requisicao nao for encontrada
+MESSAGE_REQUEST_NOT_FOUND = "Requisicao nao encontrada!"
