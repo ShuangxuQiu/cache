@@ -2,8 +2,9 @@ import config
 import socket
 import time
 
+# Imprime uma mensagem no formato do servidor
 def server_print(stepname, message):
-    print('[' + time.ctime() + ' - ' + stepname + '] ' + message, end='')
+    print('[' + time.ctime() + ' - ' + stepname + '] ' + message),
 
 # Define a tabela de dados como vazia
 table_data = { }
