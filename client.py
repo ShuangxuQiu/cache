@@ -10,6 +10,8 @@ def insert_cache_value(request, info):
     global cache_ptr
 
     if cache_ptr >= config.CACHE_TABLE_SIZE:
+        min_timestamp = time.time()
+
         for i in cache_table:
             if min_timestamp > cache_table[i]['timestamp']:
                 min_timestamp = cache_table[i]['timestamp']
@@ -35,11 +37,6 @@ def print_cache():
         if cache_table[i]['timestamp'] <= time.time() - config.CACHE_EXPIRATION_TIME:
             print(cache_table[i]['key'] + ' - ' + cache_table[i]['value'] + ' - ' + str(cache_table[i]['timestamp']))
 
-# Cria o socket do cliente
-s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-
-# Realiza a conexao com o servidor
-s.connect((config.SERVER_HOST, config.SERVER_PORT))
 
 while 1:
     entry = input('> ')
@@ -55,6 +52,12 @@ while 1:
         info = get_cache_value(entry)
 
         if info is None:
+            # Cria o socket do cliente
+            s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+
+            # Realiza a conexao com o servidor
+            s.connect((config.SERVER_HOST, config.SERVER_PORT))
+
             # Envia requisicao
             s.send(entry.encode('utf8'))
             info = s.recv(config.MAX_INFO_LENGTH).decode('utf8')

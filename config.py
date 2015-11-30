@@ -1,6 +1,6 @@
 # Endereco e porta do servidor
 SERVER_HOST = "localhost"
-SERVER_PORT = 65432
+SERVER_PORT = 6522
 
 # Arquivo de dados do servidor
 SERVER_DATAFILE = "table.data"
