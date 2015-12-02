@@ -2,7 +2,6 @@ import config
 import socket
 import time
 import signal
-import sys
 
 # Abre o arquivo de log do servidor
 log = open(config.SERVER_LOG_FILE, 'a')
@@ -11,7 +10,7 @@ log = open(config.SERVER_LOG_FILE, 'a')
 def interrupt_handler(signal, frame):
     print('\n')
     server_print('Finalizacao', 'Servidor encerrado com sucesso!')
-    sys.exit(0)
+    exit(0)
 
 # Imprime uma mensagem no formato do servidor
 def server_print(stepname, message):
@@ -30,7 +29,7 @@ def server_print(stepname, message):
         output_msg = '[' + time.ctime() + ' - ' + stepname + '] ' + message
         # Imprime no log
         log.write(output_msg)
-	    # Imprime na tela
+        # Imprime na tela
         print(output_msg),
 
 
