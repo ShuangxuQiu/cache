@@ -10,13 +10,14 @@ cache_table = { }
 cache_ptr = 0
 
 # Abre o arquivo de log do servidor
-log = open(config.LOG_CLIENT,'a')
+log = open(config.CLIENT_LOG_FILE, 'a')
 
 
 # Imprime uma mensagem no formato do cliente
 def client_print(stepname, message):
     # Abre o arquivo de log do servidor
-    log = open(config.LOG_CLIENT,'a')
+    log = open(config.CLIENT_LOG_FILE, 'a')
+
     # Se o tipo do passo for 'Resposta', imprime apenas a mensagem    
     if stepname == 'Mensagem':
         log.write(message)
@@ -73,7 +74,7 @@ def get_cache_value(request):
 # Imprime a tabela cache
 def print_cache():
     # Abre o arquivo de log do servidor
-    log = open(config.LOG_CLIENT,'a')
+    log = open(config.CLIENT_LOG_FILE, 'a')
 
     # Imprime no log
     client_print('Comando', 'Executei o comando \'/cache\' para imprimir a cache:\n\n')
@@ -95,9 +96,7 @@ def print_cache():
     # Pular linha no log
     log.write('\n')
 
-
 client_print('Inicializacao', 'Execucao do cliente iniciada!\n\n')
-
 
 # Loop principal do programa
 while 1:
@@ -115,11 +114,13 @@ while 1:
              # Comando para imprimir a tabela cache
              if input_buffer[1:] == 'cache':
                  print_cache()
+
              # Comando para sair do programa
              elif input_buffer[1:] == 'exit':
                  client_print('Comando', 'Executei o comando \'/exit\' para encerrar o cliente:\n\n')
                  client_print('Finalizacao', 'Cliente finalizado!\n')
                  exit(0)
+
              # Se o comando nao e conhecido, imprime um erro na tela
              else:
                  client_print('Comando', 'Comando \'/' + input_buffer[1:] + '\' desconhecido!\n')

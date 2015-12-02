@@ -1,6 +1,6 @@
 # Endereco e porta do servidor
 SERVER_HOST = "localhost"
-SERVER_PORT = 6557
+SERVER_PORT = 6553
 
 # Arquivo de dados do servidor
 SERVER_DATAFILE = "table.data"
@@ -21,5 +21,5 @@ MAX_INFO_LENGTH = 256
 MESSAGE_REQUEST_NOT_FOUND = "Requisicao nao encontrada!"
 
 # Arquivos de log
-LOG_SERVER = "server.log"
-LOG_CLIENT = "client.log"
+SERVER_LOG_FILE = "server.log"
+CLIENT_LOG_FILE = "client.log"

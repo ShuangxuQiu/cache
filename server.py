@@ -5,7 +5,7 @@ import signal
 import sys
 
 # Abre o arquivo de log do servidor
-log = open(config.LOG_SERVER,'a')
+log = open(config.SERVER_LOG_FILE, 'a')
 
 # Gerenciador de interrupcoes
 def interrupt_handler(signal, frame):
@@ -16,18 +16,22 @@ def interrupt_handler(signal, frame):
 # Imprime uma mensagem no formato do servidor
 def server_print(stepname, message):
     # Abre o arquivo de log do servidor
-    log = open(config.LOG_SERVER,'a')
+    log = open(config.SERVER_LOG_FILE, 'a')
+
     # Se o tipo do passo for 'Mensagem', imprime apenas a mensagem	
     if stepname == 'Mensagem':
         # Imprime no log
         log.write(message + '\n')
 	    # Imprime na tela
         print(message)
+
     else:
+        # Gera a mensagem
+        output_msg = '[' + time.ctime() + ' - ' + stepname + '] ' + message
         # Imprime no log
-        log.write('[' + time.ctime() + ' - ' + stepname + '] ' + message)
+        log.write(output_msg)
 	    # Imprime na tela
-        print('[' + time.ctime() + ' - ' + stepname + '] ' + message),
+        print(output_msg),
 
 
 # Define a tabela de dados como vazia
@@ -50,26 +54,25 @@ with open(config.SERVER_DATAFILE, 'r') as input_file:
 
 
 server_print('Mensagem', 'Feito!')
-
 server_print('Inicializacao', 'Criando socket do servidor... ')
+
 # Cria o socket do servidor
 s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 
 server_print('Mensagem', 'Feito!')
-
 server_print('Inicializacao', 'Vinculando servidor ao endereco e porta configurados... ')
+
 # Vincula o servidor ao host e porta
 s.bind((config.SERVER_HOST, config.SERVER_PORT))
 
 server_print('Mensagem', 'Feito!')
-
 server_print('Inicializacao', 'Colocando servidor em modo de escuta... ')
+
 # Fica em modo escuta, aguardando conexoes de clientes
 s.listen(5)
 
 server_print('Mensagem', 'Feito!')
-
-server_print('Inicializacao', 'Servidor executando em ' + str(config.SERVER_HOST) + ':' + str(config.SERVER_PORT) + '\n\n')
+server_print('Inicializacao', 'Servidor executando em ' + str(config.SERVER_HOST) + ':' + str(config.SERVER_PORT) + '\n')
 
 # Ativa o gerenciador de interrupcoes
 signal.signal(signal.SIGINT, interrupt_handler)
@@ -90,12 +93,13 @@ while 1:
         # Envia resposta ao cliente
         client_socket.send(table_data[request].encode('utf8'))
         # Confirma o envio
-        server_print('Mensagem', 'Feito!\n')
+        server_print('Mensagem', 'Feito!')
+
     # Se nao houver nada definido para a requisicao, envia a string
     # definida no arquivo de configuracao
     else:
         client_socket.send(config.MESSAGE_REQUEST_NOT_FOUND.encode('utf8'))
         # Imprime aviso de valor nao encontrado
-        server_print('Resposta', 'Valor nao encontrado para a requisicao!\n\n')
+        server_print('Resposta', 'Valor nao encontrado para a requisicao!\n')
 
 
