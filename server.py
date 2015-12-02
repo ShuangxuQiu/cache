@@ -21,7 +21,7 @@ def server_print(stepname, message):
     if stepname == 'Mensagem':
         # Imprime no log
         log.write(message + '\n')
-	    # Imprime na tela
+        # Imprime na tela
         print(message)
 
     else:
