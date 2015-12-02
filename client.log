@@ -1,0 +1,714 @@
+[Tue Dec  1 20:59:10 2015 - Inicializacao] Execucao do cliente iniciada!
+
+[Tue Dec  1 20:59:15 2015 - Aviso] Nao encontrei 'Brasil' na cache
+[Tue Dec  1 20:59:15 2015 - Requisicao] Fiz uma requisicao de 'Brasil' para o servidor
+[Tue Dec  1 20:59:15 2015 - Resposta] Recebi 'Requisicao nao encontrada!' como resposta
+
+[Tue Dec  1 20:59:17 2015 - Aviso] Nao encontrei 'Brazil' na cache
+[Tue Dec  1 20:59:17 2015 - Requisicao] Fiz uma requisicao de 'Brazil' para o servidor
+[Tue Dec  1 20:59:17 2015 - Resposta] Recebi '205.271.000' como resposta
+
+[Tue Dec  1 20:59:18 2015 - Aviso] Encontrei 'Brazil' na cache
+[Tue Dec  1 20:59:18 2015 - Resposta] 205.271.000
+
+[Tue Dec  1 20:59:19 2015 - Aviso] Encontrei 'Brazil' na cache
+[Tue Dec  1 20:59:19 2015 - Resposta] 205.271.000
+
+[Tue Dec  1 20:59:23 2015 - Aviso] Nao encontrei 'China' na cache
+[Tue Dec  1 20:59:23 2015 - Requisicao] Fiz uma requisicao de 'China' para o servidor
+[Tue Dec  1 20:59:23 2015 - Resposta] Recebi '1.373.490.000' como resposta
+
+[Tue Dec  1 20:59:24 2015 - Aviso] Encontrei 'China' na cache
+[Tue Dec  1 20:59:24 2015 - Resposta] 1.373.490.000
+
+[Tue Dec  1 20:59:26 2015 - Comando] Executei o comando '/cache' para imprimir a cache:
+
+    REQUEST - INFO - TIMESTAMP
+    Brasil - Requisicao nao encontrada! - 2015-12-01 20:59:15
+    Brazil - 205.271.000 - 2015-12-01 20:59:17
+    China - 1.373.490.000 - 2015-12-01 20:59:23
+
+[Tue Dec  1 20:59:27 2015 - Aviso] Encontrei 'Brasil' na cache
+[Tue Dec  1 20:59:27 2015 - Resposta] Requisicao nao encontrada!
+
+[Tue Dec  1 20:59:30 2015 - Aviso] Encontrei 'Brazil' na cache
+[Tue Dec  1 20:59:30 2015 - Resposta] 205.271.000
+
+[Tue Dec  1 21:00:28 2015 - Aviso] Nao encontrei 'China' na cache
+[Tue Dec  1 21:00:28 2015 - Requisicao] Fiz uma requisicao de 'China' para o servidor
+[Tue Dec  1 21:00:28 2015 - Resposta] Recebi '1.373.490.000' como resposta
+
+[Tue Dec  1 21:00:29 2015 - Aviso] Nao encontrei 'India' na cache
+[Tue Dec  1 21:00:29 2015 - Requisicao] Fiz uma requisicao de 'India' para o servidor
+[Tue Dec  1 21:00:29 2015 - Resposta] Recebi '1.280.860.000' como resposta
+
+[Tue Dec  1 21:00:31 2015 - Aviso] Nao encontrei 'Japan' na cache
+[Tue Dec  1 21:00:31 2015 - Requisicao] Fiz uma requisicao de 'Japan' para o servidor
+[Tue Dec  1 21:00:31 2015 - Resposta] Recebi '126.890.000' como resposta
+
+[Tue Dec  1 21:00:32 2015 - Aviso] Nao encontrei 'Mexico' na cache
+[Tue Dec  1 21:00:32 2015 - Requisicao] Fiz uma requisicao de 'Mexico' para o servidor
+[Tue Dec  1 21:00:32 2015 - Resposta] Recebi '121.005.000' como resposta
+
+[Tue Dec  1 21:00:35 2015 - Aviso] Nao encontrei 'Italy' na cache
+[Tue Dec  1 21:00:35 2015 - Requisicao] Fiz uma requisicao de 'Italy' para o servidor
+[Tue Dec  1 21:00:35 2015 - Resposta] Recebi '60.725.000' como resposta
+
+[Tue Dec  1 21:00:36 2015 - Aviso] Nao encontrei 'Spain' na cache
+[Tue Dec  1 21:00:36 2015 - Requisicao] Fiz uma requisicao de 'Spain' para o servidor
+[Tue Dec  1 21:00:36 2015 - Resposta] Recebi '46.439.864' como resposta
+
+[Tue Dec  1 21:00:37 2015 - Aviso] Nao encontrei 'Sudan' na cache
+[Tue Dec  1 21:00:37 2015 - Requisicao] Fiz uma requisicao de 'Sudan' para o servidor
+[Tue Dec  1 21:00:37 2015 - Resposta] Recebi '38.435.252' como resposta
+
+[Tue Dec  1 21:00:38 2015 - Aviso] Nao encontrei 'Iraq' na cache
+[Tue Dec  1 21:00:38 2015 - Requisicao] Fiz uma requisicao de 'Iraq' para o servidor
+[Tue Dec  1 21:00:38 2015 - Resposta] Recebi '36.004.552' como resposta
+
+[Tue Dec  1 21:00:40 2015 - Aviso] Nao encontrei 'Canada' na cache
+[Tue Dec  1 21:00:40 2015 - Requisicao] Fiz uma requisicao de 'Canada' para o servidor
+[Tue Dec  1 21:00:40 2015 - Resposta] Recebi '35.851.774' como resposta
+
+[Tue Dec  1 21:00:41 2015 - Aviso] Nao encontrei 'Peru' na cache
+[Tue Dec  1 21:00:41 2015 - Requisicao] Fiz uma requisicao de 'Peru' para o servidor
+[Tue Dec  1 21:00:41 2015 - Resposta] Recebi '31.151.643' como resposta
+
+[Tue Dec  1 21:00:42 2015 - Aviso] Encontrei 'Peru' na cache
+[Tue Dec  1 21:00:42 2015 - Resposta] 31.151.643
+
+[Tue Dec  1 21:00:43 2015 - Aviso] Encontrei 'Peru' na cache
+[Tue Dec  1 21:00:43 2015 - Resposta] 31.151.643
+
+[Tue Dec  1 21:00:44 2015 - Aviso] Nao encontrei 'China' na cache
+[Tue Dec  1 21:00:44 2015 - Requisicao] Fiz uma requisicao de 'China' para o servidor
+[Tue Dec  1 21:00:44 2015 - Resposta] Recebi '1.373.490.000' como resposta
+
+[Tue Dec  1 21:00:45 2015 - Aviso] Encontrei 'China' na cache
+[Tue Dec  1 21:00:45 2015 - Resposta] 1.373.490.000
+
+[Tue Dec  1 21:00:46 2015 - Aviso] Encontrei 'China' na cache
+[Tue Dec  1 21:00:46 2015 - Resposta] 1.373.490.000
+
+[Tue Dec  1 21:00:47 2015 - Comando] Executei o comando '/cache' para imprimir a cache:
+
+    REQUEST - INFO - TIMESTAMP
+    Peru - 31.151.643 - 2015-12-01 21:00:41
+    China - 1.373.490.000 - 2015-12-01 21:00:44
+    Spain - 46.439.864 - 2015-12-01 21:00:36
+    Sudan - 38.435.252 - 2015-12-01 21:00:37
+    Iraq - 36.004.552 - 2015-12-01 21:00:38
+    Canada - 35.851.774 - 2015-12-01 21:00:40
+
+[Tue Dec  1 21:00:51 2015 - Aviso] Nao encontrei 'Brazil' na cache
+[Tue Dec  1 21:00:51 2015 - Requisicao] Fiz uma requisicao de 'Brazil' para o servidor
+[Tue Dec  1 21:00:51 2015 - Resposta] Recebi '205.271.000' como resposta
+
+[Tue Dec  1 21:00:53 2015 - Comando] Executei o comando '/cache' para imprimir a cache:
+
+    REQUEST - INFO - TIMESTAMP
+    Peru - 31.151.643 - 2015-12-01 21:00:41
+    China - 1.373.490.000 - 2015-12-01 21:00:44
+    Brazil - 205.271.000 - 2015-12-01 21:00:51
+    Sudan - 38.435.252 - 2015-12-01 21:00:37
+    Iraq - 36.004.552 - 2015-12-01 21:00:38
+    Canada - 35.851.774 - 2015-12-01 21:00:40
+
+[Tue Dec  1 21:01:07 2015 - Comando] Executei o comando '/cache' para imprimir a cache:
+
+    REQUEST - INFO - TIMESTAMP
+    Peru - 31.151.643 - 2015-12-01 21:00:41
+    China - 1.373.490.000 - 2015-12-01 21:00:44
+    Brazil - 205.271.000 - 2015-12-01 21:00:51
+    Iraq - 36.004.552 - 2015-12-01 21:00:38
+    Canada - 35.851.774 - 2015-12-01 21:00:40
+
+[Tue Dec  1 21:01:11 2015 - Comando] Executei o comando '/cache' para imprimir a cache:
+
+    REQUEST - INFO - TIMESTAMP
+    China - 1.373.490.000 - 2015-12-01 21:00:44
+    Brazil - 205.271.000 - 2015-12-01 21:00:51
+
+[Tue Dec  1 21:01:20 2015 - Comando] Executei o comando '/cache' para imprimir a cache:
+
+    REQUEST - INFO - TIMESTAMP
+    Brazil - 205.271.000 - 2015-12-01 21:00:51
+
+[Tue Dec  1 21:01:29 2015 - Comando] Executei o comando '/cache' para imprimir a cache:
+
+    REQUEST - INFO - TIMESTAMP
+
+[Tue Dec  1 21:01:31 2015 - Comando] Executei o comando '/cache' para imprimir a cache:
+
+    REQUEST - INFO - TIMESTAMP
+
+[Tue Dec  1 21:01:34 2015 - Aviso] Nao encontrei 'Brazil' na cache
+[Tue Dec  1 21:01:34 2015 - Requisicao] Fiz uma requisicao de 'Brazil' para o servidor
+[Tue Dec  1 21:01:34 2015 - Resposta] Recebi '205.271.000' como resposta
+
+[Tue Dec  1 21:01:35 2015 - Aviso] Nao encontrei 'aaa' na cache
+[Tue Dec  1 21:01:35 2015 - Requisicao] Fiz uma requisicao de 'aaa' para o servidor
+[Tue Dec  1 21:01:35 2015 - Resposta] Recebi 'Requisicao nao encontrada!' como resposta
+
+[Tue Dec  1 21:01:37 2015 - Aviso] Nao encontrei '123' na cache
+[Tue Dec  1 21:01:37 2015 - Requisicao] Fiz uma requisicao de '123' para o servidor
+[Tue Dec  1 21:01:37 2015 - Resposta] Recebi 'Requisicao nao encontrada!' como resposta
+
+[Tue Dec  1 21:01:39 2015 - Aviso] Nao encontrei 'Mexico' na cache
+[Tue Dec  1 21:01:39 2015 - Requisicao] Fiz uma requisicao de 'Mexico' para o servidor
+[Tue Dec  1 21:01:39 2015 - Resposta] Recebi '121.005.000' como resposta
+
+[Tue Dec  1 21:01:41 2015 - Aviso] Nao encontrei 'Argentina' na cache
+[Tue Dec  1 21:01:41 2015 - Requisicao] Fiz uma requisicao de 'Argentina' para o servidor
+[Tue Dec  1 21:01:41 2015 - Resposta] Recebi '43.131.966' como resposta
+
+[Tue Dec  1 21:01:42 2015 - Aviso] Nao encontrei 'Sudan' na cache
+[Tue Dec  1 21:01:42 2015 - Requisicao] Fiz uma requisicao de 'Sudan' para o servidor
+[Tue Dec  1 21:01:42 2015 - Resposta] Recebi '38.435.252' como resposta
+
+[Tue Dec  1 21:01:43 2015 - Aviso] Nao encontrei 'Iraq' na cache
+[Tue Dec  1 21:01:43 2015 - Requisicao] Fiz uma requisicao de 'Iraq' para o servidor
+[Tue Dec  1 21:01:43 2015 - Resposta] Recebi '36.004.552' como resposta
+
+[Tue Dec  1 21:01:45 2015 - Aviso] Nao encontrei 'Egypt' na cache
+[Tue Dec  1 21:01:45 2015 - Requisicao] Fiz uma requisicao de 'Egypt' para o servidor
+[Tue Dec  1 21:01:45 2015 - Resposta] Recebi '89.950.300' como resposta
+
+[Tue Dec  1 21:01:47 2015 - Aviso] Nao encontrei 'Canada' na cache
+[Tue Dec  1 21:01:47 2015 - Requisicao] Fiz uma requisicao de 'Canada' para o servidor
+[Tue Dec  1 21:01:47 2015 - Resposta] Recebi '35.851.774' como resposta
+
+[Tue Dec  1 21:01:48 2015 - Aviso] Nao encontrei 'peru' na cache
+[Tue Dec  1 21:01:48 2015 - Requisicao] Fiz uma requisicao de 'peru' para o servidor
+[Tue Dec  1 21:01:48 2015 - Resposta] Recebi 'Requisicao nao encontrada!' como resposta
+
+[Tue Dec  1 21:01:50 2015 - Aviso] Nao encontrei 'Peru' na cache
+[Tue Dec  1 21:01:50 2015 - Requisicao] Fiz uma requisicao de 'Peru' para o servidor
+[Tue Dec  1 21:01:50 2015 - Resposta] Recebi '31.151.643' como resposta
+
+[Tue Dec  1 21:01:51 2015 - Aviso] Nao encontrei 'Brazil' na cache
+[Tue Dec  1 21:01:51 2015 - Requisicao] Fiz uma requisicao de 'Brazil' para o servidor
+[Tue Dec  1 21:01:51 2015 - Resposta] Recebi '205.271.000' como resposta
+
+[Tue Dec  1 21:01:53 2015 - Aviso] Nao encontrei 'Brasil' na cache
+[Tue Dec  1 21:01:53 2015 - Requisicao] Fiz uma requisicao de 'Brasil' para o servidor
+[Tue Dec  1 21:01:53 2015 - Resposta] Recebi 'Requisicao nao encontrada!' como resposta
+
+[Tue Dec  1 21:01:54 2015 - Aviso] Encontrei 'Canada' na cache
+[Tue Dec  1 21:01:54 2015 - Resposta] 35.851.774
+
+[Tue Dec  1 21:01:57 2015 - Aviso] Nao encontrei 'Mexico' na cache
+[Tue Dec  1 21:01:57 2015 - Requisicao] Fiz uma requisicao de 'Mexico' para o servidor
+[Tue Dec  1 21:01:57 2015 - Resposta] Recebi '121.005.000' como resposta
+
+[Tue Dec  1 21:01:59 2015 - Aviso] Nao encontrei 'France' na cache
+[Tue Dec  1 21:01:59 2015 - Requisicao] Fiz uma requisicao de 'France' para o servidor
+[Tue Dec  1 21:01:59 2015 - Resposta] Recebi '67.128.000' como resposta
+
+[Tue Dec  1 21:02:00 2015 - Aviso] Nao encontrei 'Spain' na cache
+[Tue Dec  1 21:02:00 2015 - Requisicao] Fiz uma requisicao de 'Spain' para o servidor
+[Tue Dec  1 21:02:00 2015 - Resposta] Recebi '46.439.864' como resposta
+
+[Tue Dec  1 21:02:02 2015 - Aviso] Nao encontrei 'Japan' na cache
+[Tue Dec  1 21:02:02 2015 - Requisicao] Fiz uma requisicao de 'Japan' para o servidor
+[Tue Dec  1 21:02:02 2015 - Resposta] Recebi '126.890.000' como resposta
+
+[Tue Dec  1 21:02:03 2015 - Aviso] Nao encontrei 'Russia' na cache
+[Tue Dec  1 21:02:03 2015 - Requisicao] Fiz uma requisicao de 'Russia' para o servidor
+[Tue Dec  1 21:02:03 2015 - Resposta] Recebi '146.453.530' como resposta
+
+[Tue Dec  1 21:02:07 2015 - Aviso] Nao encontrei 'Rusi' na cache
+[Tue Dec  1 21:02:07 2015 - Requisicao] Fiz uma requisicao de 'Rusi' para o servidor
+[Tue Dec  1 21:02:07 2015 - Resposta] Recebi 'Requisicao nao encontrada!' como resposta
+
+[Tue Dec  1 21:02:09 2015 - Aviso] Nao encontrei 'China' na cache
+[Tue Dec  1 21:02:09 2015 - Requisicao] Fiz uma requisicao de 'China' para o servidor
+[Tue Dec  1 21:02:09 2015 - Resposta] Recebi '1.373.490.000' como resposta
+
+[Tue Dec  1 21:02:10 2015 - Aviso] Encontrei 'China' na cache
+[Tue Dec  1 21:02:10 2015 - Resposta] 1.373.490.000
+
+[Tue Dec  1 21:02:11 2015 - Aviso] Encontrei 'China' na cache
+[Tue Dec  1 21:02:11 2015 - Resposta] 1.373.490.000
+
+[Tue Dec  1 21:02:12 2015 - Aviso] Encontrei 'China' na cache
+[Tue Dec  1 21:02:12 2015 - Resposta] 1.373.490.000
+
+[Tue Dec  1 21:02:13 2015 - Aviso] Encontrei 'China' na cache
+[Tue Dec  1 21:02:13 2015 - Resposta] 1.373.490.000
+
+[Tue Dec  1 21:02:13 2015 - Aviso] Encontrei 'China' na cache
+[Tue Dec  1 21:02:13 2015 - Resposta] 1.373.490.000
+
+[Tue Dec  1 21:02:14 2015 - Aviso] Encontrei 'China' na cache
+[Tue Dec  1 21:02:14 2015 - Resposta] 1.373.490.000
+
+[Tue Dec  1 21:02:15 2015 - Aviso] Encontrei 'China' na cache
+[Tue Dec  1 21:02:15 2015 - Resposta] 1.373.490.000
+
+[Tue Dec  1 21:02:19 2015 - Aviso] Encontrei 'China' na cache
+[Tue Dec  1 21:02:19 2015 - Resposta] 1.373.490.000
+
+[Tue Dec  1 21:02:21 2015 - Aviso] Nao encontrei 'Brazil' na cache
+[Tue Dec  1 21:02:21 2015 - Requisicao] Fiz uma requisicao de 'Brazil' para o servidor
+[Tue Dec  1 21:02:21 2015 - Resposta] Recebi '205.271.000' como resposta
+
+[Tue Dec  1 21:02:22 2015 - Comando] Executei o comando '/cache' para imprimir a cache:
+
+    REQUEST - INFO - TIMESTAMP
+    Spain - 46.439.864 - 2015-12-01 21:02:00
+    Japan - 126.890.000 - 2015-12-01 21:02:02
+    Russia - 146.453.530 - 2015-12-01 21:02:03
+    Rusi - Requisicao nao encontrada! - 2015-12-01 21:02:07
+    China - 1.373.490.000 - 2015-12-01 21:02:09
+    Brazil - 205.271.000 - 2015-12-01 21:02:21
+
+[Tue Dec  1 21:02:28 2015 - Aviso] Nao encontrei 'Peru' na cache
+[Tue Dec  1 21:02:28 2015 - Requisicao] Fiz uma requisicao de 'Peru' para o servidor
+[Tue Dec  1 21:02:28 2015 - Resposta] Recebi '31.151.643' como resposta
+
+[Tue Dec  1 21:02:30 2015 - Aviso] Nao encontrei 'Italy' na cache
+[Tue Dec  1 21:02:30 2015 - Requisicao] Fiz uma requisicao de 'Italy' para o servidor
+[Tue Dec  1 21:02:30 2015 - Resposta] Recebi '60.725.000' como resposta
+
+[Tue Dec  1 21:02:31 2015 - Comando] Executei o comando '/cache' para imprimir a cache:
+
+    REQUEST - INFO - TIMESTAMP
+    Peru - 31.151.643 - 2015-12-01 21:02:28
+    Italy - 60.725.000 - 2015-12-01 21:02:30
+    Russia - 146.453.530 - 2015-12-01 21:02:03
+    Rusi - Requisicao nao encontrada! - 2015-12-01 21:02:07
+    China - 1.373.490.000 - 2015-12-01 21:02:09
+    Brazil - 205.271.000 - 2015-12-01 21:02:21
+
+[Tue Dec  1 21:02:36 2015 - Aviso] Nao encontrei 'Spain' na cache
+[Tue Dec  1 21:02:36 2015 - Requisicao] Fiz uma requisicao de 'Spain' para o servidor
+[Tue Dec  1 21:02:36 2015 - Resposta] Recebi '46.439.864' como resposta
+
+[Tue Dec  1 21:02:38 2015 - Aviso] Nao encontrei 'Germany' na cache
+[Tue Dec  1 21:02:38 2015 - Requisicao] Fiz uma requisicao de 'Germany' para o servidor
+[Tue Dec  1 21:02:38 2015 - Resposta] Recebi '81.197.500' como resposta
+
+[Tue Dec  1 21:02:40 2015 - Comando] Executei o comando '/cache' para imprimir a cache:
+
+    REQUEST - INFO - TIMESTAMP
+    Peru - 31.151.643 - 2015-12-01 21:02:28
+    Italy - 60.725.000 - 2015-12-01 21:02:30
+    Spain - 46.439.864 - 2015-12-01 21:02:36
+    Germany - 81.197.500 - 2015-12-01 21:02:38
+    Brazil - 205.271.000 - 2015-12-01 21:02:21
+
+[Tue Dec  1 21:02:44 2015 - Aviso] Nao encontrei 'Japan' na cache
+[Tue Dec  1 21:02:44 2015 - Requisicao] Fiz uma requisicao de 'Japan' para o servidor
+[Tue Dec  1 21:02:44 2015 - Resposta] Recebi '126.890.000' como resposta
+
+[Tue Dec  1 21:02:46 2015 - Aviso] Nao encontrei 'Russia' na cache
+[Tue Dec  1 21:02:46 2015 - Requisicao] Fiz uma requisicao de 'Russia' para o servidor
+[Tue Dec  1 21:02:46 2015 - Resposta] Recebi '146.453.530' como resposta
+
+[Tue Dec  1 21:02:47 2015 - Aviso] Nao encontrei 'China' na cache
+[Tue Dec  1 21:02:47 2015 - Requisicao] Fiz uma requisicao de 'China' para o servidor
+[Tue Dec  1 21:02:47 2015 - Resposta] Recebi '1.373.490.000' como resposta
+
+[Tue Dec  1 21:02:49 2015 - Aviso] Encontrei 'Japan' na cache
+[Tue Dec  1 21:02:49 2015 - Resposta] 126.890.000
+
+[Tue Dec  1 21:02:50 2015 - Aviso] Encontrei 'China' na cache
+[Tue Dec  1 21:02:50 2015 - Resposta] 1.373.490.000
+
+[Tue Dec  1 21:02:51 2015 - Aviso] Encontrei 'China' na cache
+[Tue Dec  1 21:02:51 2015 - Resposta] 1.373.490.000
+
+[Tue Dec  1 21:02:52 2015 - Aviso] Nao encontrei 'Brazil' na cache
+[Tue Dec  1 21:02:52 2015 - Requisicao] Fiz uma requisicao de 'Brazil' para o servidor
+[Tue Dec  1 21:02:52 2015 - Resposta] Recebi '205.271.000' como resposta
+
+[Tue Dec  1 21:02:54 2015 - Aviso] Nao encontrei 'India' na cache
+[Tue Dec  1 21:02:54 2015 - Requisicao] Fiz uma requisicao de 'India' para o servidor
+[Tue Dec  1 21:02:54 2015 - Resposta] Recebi '1.280.860.000' como resposta
+
+[Tue Dec  1 21:02:57 2015 - Aviso] Nao encontrei 'Canada' na cache
+[Tue Dec  1 21:02:57 2015 - Requisicao] Fiz uma requisicao de 'Canada' para o servidor
+[Tue Dec  1 21:02:57 2015 - Resposta] Recebi '35.851.774' como resposta
+
+[Tue Dec  1 21:02:58 2015 - Aviso] Nao encontrei 'Peru' na cache
+[Tue Dec  1 21:02:58 2015 - Requisicao] Fiz uma requisicao de 'Peru' para o servidor
+[Tue Dec  1 21:02:58 2015 - Resposta] Recebi '31.151.643' como resposta
+
+[Tue Dec  1 21:03:01 2015 - Aviso] Encontrei 'China' na cache
+[Tue Dec  1 21:03:01 2015 - Resposta] 1.373.490.000
+
+[Tue Dec  1 21:03:01 2015 - Aviso] Encontrei 'China' na cache
+[Tue Dec  1 21:03:01 2015 - Resposta] 1.373.490.000
+
+[Tue Dec  1 21:03:02 2015 - Aviso] Encontrei 'China' na cache
+[Tue Dec  1 21:03:02 2015 - Resposta] 1.373.490.000
+
+[Tue Dec  1 21:03:03 2015 - Aviso] Encontrei 'China' na cache
+[Tue Dec  1 21:03:03 2015 - Resposta] 1.373.490.000
+
+[Tue Dec  1 21:03:04 2015 - Aviso] Encontrei 'China' na cache
+[Tue Dec  1 21:03:04 2015 - Resposta] 1.373.490.000
+
+[Tue Dec  1 21:03:05 2015 - Aviso] Encontrei 'Peru' na cache
+[Tue Dec  1 21:03:05 2015 - Resposta] 31.151.643
+
+[Tue Dec  1 21:03:07 2015 - Aviso] Nao encontrei 'Brasil' na cache
+[Tue Dec  1 21:03:07 2015 - Requisicao] Fiz uma requisicao de 'Brasil' para o servidor
+[Tue Dec  1 21:03:07 2015 - Resposta] Recebi 'Requisicao nao encontrada!' como resposta
+
+[Tue Dec  1 21:03:09 2015 - Aviso] Encontrei 'Brazil' na cache
+[Tue Dec  1 21:03:09 2015 - Resposta] 205.271.000
+
+[Tue Dec  1 21:03:11 2015 - Aviso] Encontrei 'Canada' na cache
+[Tue Dec  1 21:03:11 2015 - Resposta] 35.851.774
+
+[Tue Dec  1 21:03:12 2015 - Aviso] Encontrei 'Peru' na cache
+[Tue Dec  1 21:03:12 2015 - Resposta] 31.151.643
+
+[Tue Dec  1 21:03:14 2015 - Aviso] Encontrei 'China' na cache
+[Tue Dec  1 21:03:14 2015 - Resposta] 1.373.490.000
+
+[Tue Dec  1 21:03:15 2015 - Aviso] Encontrei 'China' na cache
+[Tue Dec  1 21:03:15 2015 - Resposta] 1.373.490.000
+
+[Tue Dec  1 21:03:17 2015 - Aviso] Encontrei 'Canada' na cache
+[Tue Dec  1 21:03:17 2015 - Resposta] 35.851.774
+
+[Tue Dec  1 21:03:18 2015 - Aviso] Nao encontrei 'Mexico' na cache
+[Tue Dec  1 21:03:18 2015 - Requisicao] Fiz uma requisicao de 'Mexico' para o servidor
+[Tue Dec  1 21:03:18 2015 - Resposta] Recebi '121.005.000' como resposta
+
+[Tue Dec  1 21:03:20 2015 - Aviso] Nao encontrei 'Iraq' na cache
+[Tue Dec  1 21:03:20 2015 - Requisicao] Fiz uma requisicao de 'Iraq' para o servidor
+[Tue Dec  1 21:03:20 2015 - Resposta] Recebi '36.004.552' como resposta
+
+[Tue Dec  1 21:03:21 2015 - Aviso] Nao encontrei 'Sudan' na cache
+[Tue Dec  1 21:03:21 2015 - Requisicao] Fiz uma requisicao de 'Sudan' para o servidor
+[Tue Dec  1 21:03:21 2015 - Resposta] Recebi '38.435.252' como resposta
+
+[Tue Dec  1 21:03:23 2015 - Aviso] Encontrei 'Peru' na cache
+[Tue Dec  1 21:03:23 2015 - Resposta] 31.151.643
+
+[Tue Dec  1 21:03:23 2015 - Aviso] Encontrei 'Peru' na cache
+[Tue Dec  1 21:03:23 2015 - Resposta] 31.151.643
+
+[Tue Dec  1 21:03:24 2015 - Aviso] Encontrei 'Peru' na cache
+[Tue Dec  1 21:03:24 2015 - Resposta] 31.151.643
+
+[Tue Dec  1 21:03:26 2015 - Aviso] Nao encontrei 'China' na cache
+[Tue Dec  1 21:03:26 2015 - Requisicao] Fiz uma requisicao de 'China' para o servidor
+[Tue Dec  1 21:03:26 2015 - Resposta] Recebi '1.373.490.000' como resposta
+
+[Tue Dec  1 21:03:27 2015 - Aviso] Encontrei 'China' na cache
+[Tue Dec  1 21:03:27 2015 - Resposta] 1.373.490.000
+
+[Tue Dec  1 21:03:28 2015 - Aviso] Encontrei 'China' na cache
+[Tue Dec  1 21:03:28 2015 - Resposta] 1.373.490.000
+
+[Tue Dec  1 21:03:29 2015 - Aviso] Encontrei 'China' na cache
+[Tue Dec  1 21:03:29 2015 - Resposta] 1.373.490.000
+
+[Tue Dec  1 21:03:30 2015 - Aviso] Encontrei 'China' na cache
+[Tue Dec  1 21:03:30 2015 - Resposta] 1.373.490.000
+
+[Tue Dec  1 21:03:32 2015 - Aviso] Nao encontrei 'China[' na cache
+[Tue Dec  1 21:03:32 2015 - Requisicao] Fiz uma requisicao de 'China[' para o servidor
+[Tue Dec  1 21:03:32 2015 - Resposta] Recebi 'Requisicao nao encontrada!' como resposta
+
+[Tue Dec  1 21:03:36 2015 - Aviso] Nao encontrei 'teste' na cache
+[Tue Dec  1 21:03:36 2015 - Requisicao] Fiz uma requisicao de 'teste' para o servidor
+[Tue Dec  1 21:03:36 2015 - Resposta] Recebi 'Requisicao nao encontrada!' como resposta
+
+[Tue Dec  1 21:03:39 2015 - Aviso] Nao encontrei 'xina' na cache
+[Tue Dec  1 21:03:39 2015 - Requisicao] Fiz uma requisicao de 'xina' para o servidor
+[Tue Dec  1 21:03:39 2015 - Resposta] Recebi 'Requisicao nao encontrada!' como resposta
+
+[Tue Dec  1 21:03:40 2015 - Aviso] Encontrei 'China' na cache
+[Tue Dec  1 21:03:40 2015 - Resposta] 1.373.490.000
+
+[Tue Dec  1 21:03:41 2015 - Aviso] Encontrei 'China' na cache
+[Tue Dec  1 21:03:41 2015 - Resposta] 1.373.490.000
+
+[Tue Dec  1 21:03:44 2015 - Aviso] Nao encontrei 'Italy' na cache
+[Tue Dec  1 21:03:44 2015 - Requisicao] Fiz uma requisicao de 'Italy' para o servidor
+[Tue Dec  1 21:03:44 2015 - Resposta] Recebi '60.725.000' como resposta
+
+[Tue Dec  1 21:03:45 2015 - Aviso] Nao encontrei 'Japan' na cache
+[Tue Dec  1 21:03:45 2015 - Requisicao] Fiz uma requisicao de 'Japan' para o servidor
+[Tue Dec  1 21:03:45 2015 - Resposta] Recebi '126.890.000' como resposta
+
+[Tue Dec  1 21:03:47 2015 - Aviso] Nao encontrei 'Mexico' na cache
+[Tue Dec  1 21:03:47 2015 - Requisicao] Fiz uma requisicao de 'Mexico' para o servidor
+[Tue Dec  1 21:03:47 2015 - Resposta] Recebi '121.005.000' como resposta
+
+[Tue Dec  1 21:03:51 2015 - Aviso] Nao encontrei 'Togo' na cache
+[Tue Dec  1 21:03:51 2015 - Requisicao] Fiz uma requisicao de 'Togo' para o servidor
+[Tue Dec  1 21:03:51 2015 - Resposta] Recebi '7.305.000' como resposta
+
+[Tue Dec  1 21:03:52 2015 - Aviso] Nao encontrei 'Laos' na cache
+[Tue Dec  1 21:03:52 2015 - Requisicao] Fiz uma requisicao de 'Laos' para o servidor
+[Tue Dec  1 21:03:52 2015 - Resposta] Recebi '6.802.000' como resposta
+
+[Tue Dec  1 21:03:55 2015 - Aviso] Nao encontrei 'Nicaragua' na cache
+[Tue Dec  1 21:03:55 2015 - Requisicao] Fiz uma requisicao de 'Nicaragua' para o servidor
+[Tue Dec  1 21:03:55 2015 - Resposta] Recebi '6.198.154' como resposta
+
+[Tue Dec  1 21:03:57 2015 - Aviso] Nao encontrei 'Bulgaria' na cache
+[Tue Dec  1 21:03:57 2015 - Requisicao] Fiz uma requisicao de 'Bulgaria' para o servidor
+[Tue Dec  1 21:03:57 2015 - Resposta] Recebi '7.202.198' como resposta
+
+[Tue Dec  1 21:04:01 2015 - Aviso] Nao encontrei 'Lithuania' na cache
+[Tue Dec  1 21:04:01 2015 - Requisicao] Fiz uma requisicao de 'Lithuania' para o servidor
+[Tue Dec  1 21:04:01 2015 - Resposta] Recebi '2.893.336' como resposta
+
+[Tue Dec  1 21:04:03 2015 - Aviso] Nao encontrei 'Albania' na cache
+[Tue Dec  1 21:04:03 2015 - Requisicao] Fiz uma requisicao de 'Albania' para o servidor
+[Tue Dec  1 21:04:03 2015 - Resposta] Recebi '2.893.005' como resposta
+
+[Tue Dec  1 21:04:04 2015 - Aviso] Nao encontrei 'Qatar' na cache
+[Tue Dec  1 21:04:04 2015 - Requisicao] Fiz uma requisicao de 'Qatar' para o servidor
+[Tue Dec  1 21:04:04 2015 - Resposta] Recebi '2.412.483' como resposta
+
+[Tue Dec  1 21:04:06 2015 - Aviso] Nao encontrei 'Lesotho' na cache
+[Tue Dec  1 21:04:06 2015 - Requisicao] Fiz uma requisicao de 'Lesotho' para o servidor
+[Tue Dec  1 21:04:06 2015 - Resposta] Recebi '2.135.000' como resposta
+
+[Tue Dec  1 21:04:07 2015 - Comando] Executei o comando '/cache' para imprimir a cache:
+
+    REQUEST - INFO - TIMESTAMP
+    Nicaragua - 6.198.154 - 2015-12-01 21:03:55
+    Bulgaria - 7.202.198 - 2015-12-01 21:03:57
+    Lithuania - 2.893.336 - 2015-12-01 21:04:01
+    Albania - 2.893.005 - 2015-12-01 21:04:03
+    Qatar - 2.412.483 - 2015-12-01 21:04:04
+    Lesotho - 2.135.000 - 2015-12-01 21:04:06
+
+[Tue Dec  1 21:04:14 2015 - Aviso] Nao encontrei 'Kuwait' na cache
+[Tue Dec  1 21:04:14 2015 - Requisicao] Fiz uma requisicao de 'Kuwait' para o servidor
+[Tue Dec  1 21:04:14 2015 - Resposta] Recebi '4.183.658' como resposta
+
+[Tue Dec  1 21:04:15 2015 - Comando] Executei o comando '/cache' para imprimir a cache:
+
+    REQUEST - INFO - TIMESTAMP
+    Kuwait - 4.183.658 - 2015-12-01 21:04:14
+    Bulgaria - 7.202.198 - 2015-12-01 21:03:57
+    Lithuania - 2.893.336 - 2015-12-01 21:04:01
+    Albania - 2.893.005 - 2015-12-01 21:04:03
+    Qatar - 2.412.483 - 2015-12-01 21:04:04
+    Lesotho - 2.135.000 - 2015-12-01 21:04:06
+
+[Tue Dec  1 21:04:19 2015 - Aviso] Nao encontrei 'Brazil' na cache
+[Tue Dec  1 21:04:19 2015 - Requisicao] Fiz uma requisicao de 'Brazil' para o servidor
+[Tue Dec  1 21:04:19 2015 - Resposta] Recebi '205.271.000' como resposta
+
+[Tue Dec  1 21:04:19 2015 - Comando] Executei o comando '/cache' para imprimir a cache:
+
+    REQUEST - INFO - TIMESTAMP
+    Kuwait - 4.183.658 - 2015-12-01 21:04:14
+    Brazil - 205.271.000 - 2015-12-01 21:04:19
+    Lithuania - 2.893.336 - 2015-12-01 21:04:01
+    Albania - 2.893.005 - 2015-12-01 21:04:03
+    Qatar - 2.412.483 - 2015-12-01 21:04:04
+    Lesotho - 2.135.000 - 2015-12-01 21:04:06
+
+[Tue Dec  1 21:04:24 2015 - Aviso] Nao encontrei 'China' na cache
+[Tue Dec  1 21:04:24 2015 - Requisicao] Fiz uma requisicao de 'China' para o servidor
+[Tue Dec  1 21:04:24 2015 - Resposta] Recebi '1.373.490.000' como resposta
+
+[Tue Dec  1 21:04:25 2015 - Aviso] Encontrei 'China' na cache
+[Tue Dec  1 21:04:25 2015 - Resposta] 1.373.490.000
+
+[Tue Dec  1 21:04:25 2015 - Aviso] Nao encontrei 'CHina' na cache
+[Tue Dec  1 21:04:25 2015 - Requisicao] Fiz uma requisicao de 'CHina' para o servidor
+[Tue Dec  1 21:04:25 2015 - Resposta] Recebi 'Requisicao nao encontrada!' como resposta
+
+[Tue Dec  1 21:04:31 2015 - Aviso] Encontrei 'Kuwait' na cache
+[Tue Dec  1 21:04:31 2015 - Resposta] 4.183.658
+
+[Tue Dec  1 21:04:33 2015 - Comando] Executei o comando '/cache' para imprimir a cache:
+
+    REQUEST - INFO - TIMESTAMP
+    Kuwait - 4.183.658 - 2015-12-01 21:04:14
+    Brazil - 205.271.000 - 2015-12-01 21:04:19
+    China - 1.373.490.000 - 2015-12-01 21:04:24
+    CHina - Requisicao nao encontrada! - 2015-12-01 21:04:25
+    Qatar - 2.412.483 - 2015-12-01 21:04:04
+    Lesotho - 2.135.000 - 2015-12-01 21:04:06
+
+[Tue Dec  1 21:04:44 2015 - Aviso] Nao encontrei 'Monaco' na cache
+[Tue Dec  1 21:04:44 2015 - Requisicao] Fiz uma requisicao de 'Monaco' para o servidor
+[Tue Dec  1 21:04:44 2015 - Resposta] Recebi '37.800' como resposta
+
+[Tue Dec  1 21:04:48 2015 - Aviso] Nao encontrei 'Gibraltar' na cache
+[Tue Dec  1 21:04:48 2015 - Requisicao] Fiz uma requisicao de 'Gibraltar' para o servidor
+[Tue Dec  1 21:04:48 2015 - Resposta] Recebi '32.734' como resposta
+
+[Tue Dec  1 21:04:56 2015 - Aviso] Nao encontrei 'Bermuda' na cache
+[Tue Dec  1 21:04:56 2015 - Requisicao] Fiz uma requisicao de 'Bermuda' para o servidor
+[Tue Dec  1 21:04:56 2015 - Resposta] Recebi '64.237' como resposta
+
+[Tue Dec  1 21:04:58 2015 - Aviso] Nao encontrei 'Andorra' na cache
+[Tue Dec  1 21:04:58 2015 - Requisicao] Fiz uma requisicao de 'Andorra' para o servidor
+[Tue Dec  1 21:04:58 2015 - Resposta] Recebi '76.949' como resposta
+
+[Tue Dec  1 21:05:00 2015 - Aviso] Nao encontrei 'Jersey' na cache
+[Tue Dec  1 21:05:00 2015 - Requisicao] Fiz uma requisicao de 'Jersey' para o servidor
+[Tue Dec  1 21:05:00 2015 - Resposta] Recebi '100.800' como resposta
+
+[Tue Dec  1 21:05:03 2015 - Aviso] Nao encontrei 'Macao' na cache
+[Tue Dec  1 21:05:03 2015 - Requisicao] Fiz uma requisicao de 'Macao' para o servidor
+[Tue Dec  1 21:05:03 2015 - Resposta] Recebi 'Requisicao nao encontrada!' como resposta
+
+[Tue Dec  1 21:05:06 2015 - Aviso] Nao encontrei 'Samoa' na cache
+[Tue Dec  1 21:05:06 2015 - Requisicao] Fiz uma requisicao de 'Samoa' para o servidor
+[Tue Dec  1 21:05:06 2015 - Resposta] Recebi '187.820' como resposta
+
+[Tue Dec  1 21:05:08 2015 - Aviso] Nao encontrei 'Ceuta' na cache
+[Tue Dec  1 21:05:08 2015 - Requisicao] Fiz uma requisicao de 'Ceuta' para o servidor
+[Tue Dec  1 21:05:08 2015 - Resposta] Recebi '82.376' como resposta
+
+[Tue Dec  1 21:05:14 2015 - Aviso] Nao encontrei 'Aruba' na cache
+[Tue Dec  1 21:05:14 2015 - Requisicao] Fiz uma requisicao de 'Aruba' para o servidor
+[Tue Dec  1 21:05:14 2015 - Resposta] Recebi '107.394' como resposta
+
+[Tue Dec  1 21:05:19 2015 - Aviso] Nao encontrei 'Saba' na cache
+[Tue Dec  1 21:05:19 2015 - Requisicao] Fiz uma requisicao de 'Saba' para o servidor
+[Tue Dec  1 21:05:19 2015 - Resposta] Recebi '1.991' como resposta
+
+[Tue Dec  1 21:05:20 2015 - Aviso] Nao encontrei 'Nauru' na cache
+[Tue Dec  1 21:05:20 2015 - Requisicao] Fiz uma requisicao de 'Nauru' para o servidor
+[Tue Dec  1 21:05:20 2015 - Resposta] Recebi '10.084' como resposta
+
+[Tue Dec  1 21:05:21 2015 - Aviso] Nao encontrei 'Brazil' na cache
+[Tue Dec  1 21:05:21 2015 - Requisicao] Fiz uma requisicao de 'Brazil' para o servidor
+[Tue Dec  1 21:05:21 2015 - Resposta] Recebi '205.271.000' como resposta
+
+[Tue Dec  1 21:05:23 2015 - Aviso] Nao encontrei 'China' na cache
+[Tue Dec  1 21:05:23 2015 - Requisicao] Fiz uma requisicao de 'China' para o servidor
+[Tue Dec  1 21:05:23 2015 - Resposta] Recebi '1.373.490.000' como resposta
+
+[Tue Dec  1 21:05:33 2015 - Aviso] Nao encontrei 'United States' na cache
+[Tue Dec  1 21:05:33 2015 - Requisicao] Fiz uma requisicao de 'United States' para o servidor
+[Tue Dec  1 21:05:33 2015 - Resposta] Recebi '322.344.000' como resposta
+
+[Tue Dec  1 21:05:37 2015 - Aviso] Nao encontrei 'India' na cache
+[Tue Dec  1 21:05:37 2015 - Requisicao] Fiz uma requisicao de 'India' para o servidor
+[Tue Dec  1 21:05:37 2015 - Resposta] Recebi '1.280.860.000' como resposta
+
+[Tue Dec  1 21:05:38 2015 - Aviso] Nao encontrei 'England' na cache
+[Tue Dec  1 21:05:38 2015 - Requisicao] Fiz uma requisicao de 'England' para o servidor
+[Tue Dec  1 21:05:38 2015 - Resposta] Recebi 'Requisicao nao encontrada!' como resposta
+
+[Tue Dec  1 21:05:45 2015 - Aviso] Nao encontrei 'Germany' na cache
+[Tue Dec  1 21:05:46 2015 - Requisicao] Fiz uma requisicao de 'Germany' para o servidor
+[Tue Dec  1 21:05:46 2015 - Resposta] Recebi '81.197.500' como resposta
+
+[Tue Dec  1 21:05:49 2015 - Aviso] Nao encontrei 'France' na cache
+[Tue Dec  1 21:05:49 2015 - Requisicao] Fiz uma requisicao de 'France' para o servidor
+[Tue Dec  1 21:05:49 2015 - Resposta] Recebi '67.128.000' como resposta
+
+[Tue Dec  1 21:05:50 2015 - Aviso] Nao encontrei 'Italy' na cache
+[Tue Dec  1 21:05:50 2015 - Requisicao] Fiz uma requisicao de 'Italy' para o servidor
+[Tue Dec  1 21:05:50 2015 - Resposta] Recebi '60.725.000' como resposta
+
+[Tue Dec  1 21:05:52 2015 - Comando] Executei o comando '/cache' para imprimir a cache:
+
+    REQUEST - INFO - TIMESTAMP
+    India - 1.280.860.000 - 2015-12-01 21:05:37
+    England - Requisicao nao encontrada! - 2015-12-01 21:05:38
+    Germany - 81.197.500 - 2015-12-01 21:05:46
+    France - 67.128.000 - 2015-12-01 21:05:49
+    Italy - 60.725.000 - 2015-12-01 21:05:50
+    United States - 322.344.000 - 2015-12-01 21:05:33
+
+[Tue Dec  1 21:05:54 2015 - Aviso] Nao encontrei 'Iran' na cache
+[Tue Dec  1 21:05:54 2015 - Requisicao] Fiz uma requisicao de 'Iran' para o servidor
+[Tue Dec  1 21:05:54 2015 - Resposta] Recebi '78.827.700' como resposta
+
+[Tue Dec  1 21:05:56 2015 - Aviso] Nao encontrei 'Turkey' na cache
+[Tue Dec  1 21:05:56 2015 - Requisicao] Fiz uma requisicao de 'Turkey' para o servidor
+[Tue Dec  1 21:05:56 2015 - Resposta] Recebi '77.695.904' como resposta
+
+[Tue Dec  1 21:05:57 2015 - Aviso] Nao encontrei 'Peru' na cache
+[Tue Dec  1 21:05:57 2015 - Requisicao] Fiz uma requisicao de 'Peru' para o servidor
+[Tue Dec  1 21:05:57 2015 - Resposta] Recebi '31.151.643' como resposta
+
+[Tue Dec  1 21:05:59 2015 - Aviso] Nao encontrei 'Canada' na cache
+[Tue Dec  1 21:05:59 2015 - Requisicao] Fiz uma requisicao de 'Canada' para o servidor
+[Tue Dec  1 21:05:59 2015 - Resposta] Recebi '35.851.774' como resposta
+
+[Tue Dec  1 21:06:00 2015 - Aviso] Nao encontrei 'Mexico' na cache
+[Tue Dec  1 21:06:00 2015 - Requisicao] Fiz uma requisicao de 'Mexico' para o servidor
+[Tue Dec  1 21:06:00 2015 - Resposta] Recebi '121.005.000' como resposta
+
+[Tue Dec  1 21:06:02 2015 - Aviso] Nao encontrei 'Brazil' na cache
+[Tue Dec  1 21:06:02 2015 - Requisicao] Fiz uma requisicao de 'Brazil' para o servidor
+[Tue Dec  1 21:06:02 2015 - Resposta] Recebi '205.271.000' como resposta
+
+[Tue Dec  1 21:06:03 2015 - Aviso] Nao encontrei 'China' na cache
+[Tue Dec  1 21:06:03 2015 - Requisicao] Fiz uma requisicao de 'China' para o servidor
+[Tue Dec  1 21:06:03 2015 - Resposta] Recebi '1.373.490.000' como resposta
+
+[Tue Dec  1 21:06:04 2015 - Aviso] Nao encontrei 'Russia' na cache
+[Tue Dec  1 21:06:04 2015 - Requisicao] Fiz uma requisicao de 'Russia' para o servidor
+[Tue Dec  1 21:06:04 2015 - Resposta] Recebi '146.453.530' como resposta
+
+[Tue Dec  1 21:06:05 2015 - Aviso] Nao encontrei 'Japan' na cache
+[Tue Dec  1 21:06:05 2015 - Requisicao] Fiz uma requisicao de 'Japan' para o servidor
+[Tue Dec  1 21:06:05 2015 - Resposta] Recebi '126.890.000' como resposta
+
+[Tue Dec  1 21:06:09 2015 - Aviso] Nao encontrei 'United States' na cache
+[Tue Dec  1 21:06:09 2015 - Requisicao] Fiz uma requisicao de 'United States' para o servidor
+[Tue Dec  1 21:06:09 2015 - Resposta] Recebi '322.344.000' como resposta
+
+[Tue Dec  1 21:06:10 2015 - Comando] Executei o comando '/cache' para imprimir a cache:
+
+    REQUEST - INFO - TIMESTAMP
+    Russia - 146.453.530 - 2015-12-01 21:06:04
+    Japan - 126.890.000 - 2015-12-01 21:06:05
+    United States - 322.344.000 - 2015-12-01 21:06:09
+    Mexico - 121.005.000 - 2015-12-01 21:06:00
+    Brazil - 205.271.000 - 2015-12-01 21:06:02
+    China - 1.373.490.000 - 2015-12-01 21:06:03
+
+[Tue Dec  1 21:06:20 2015 - Comando] Executei o comando '/cache' para imprimir a cache:
+
+    REQUEST - INFO - TIMESTAMP
+    Russia - 146.453.530 - 2015-12-01 21:06:04
+    Japan - 126.890.000 - 2015-12-01 21:06:05
+    United States - 322.344.000 - 2015-12-01 21:06:09
+    Mexico - 121.005.000 - 2015-12-01 21:06:00
+    Brazil - 205.271.000 - 2015-12-01 21:06:02
+    China - 1.373.490.000 - 2015-12-01 21:06:03
+
+[Tue Dec  1 21:06:26 2015 - Comando] Executei o comando '/cache' para imprimir a cache:
+
+    REQUEST - INFO - TIMESTAMP
+    Russia - 146.453.530 - 2015-12-01 21:06:04
+    Japan - 126.890.000 - 2015-12-01 21:06:05
+    United States - 322.344.000 - 2015-12-01 21:06:09
+    Mexico - 121.005.000 - 2015-12-01 21:06:00
+    Brazil - 205.271.000 - 2015-12-01 21:06:02
+    China - 1.373.490.000 - 2015-12-01 21:06:03
+
+[Tue Dec  1 21:06:40 2015 - Comando] Executei o comando '/cache' para imprimir a cache:
+
+    REQUEST - INFO - TIMESTAMP
+
+[Tue Dec  1 21:06:42 2015 - Comando] Executei o comando '/cache' para imprimir a cache:
+
+    REQUEST - INFO - TIMESTAMP
+
+[Tue Dec  1 21:06:45 2015 - Aviso] Nao encontrei 'Brazil' na cache
+[Tue Dec  1 21:06:45 2015 - Requisicao] Fiz uma requisicao de 'Brazil' para o servidor
+[Tue Dec  1 21:06:45 2015 - Resposta] Recebi '205.271.000' como resposta
+
+[Tue Dec  1 21:06:46 2015 - Comando] Executei o comando '/cache' para imprimir a cache:
+
+    REQUEST - INFO - TIMESTAMP
+    Brazil - 205.271.000 - 2015-12-01 21:06:45
+
+[Tue Dec  1 21:06:49 2015 - Comando] Executei o comando '/exit' para encerrar o cliente:
+
+[Tue Dec  1 21:06:49 2015 - Finalizacao] Cliente finalizado!

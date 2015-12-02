@@ -21,5 +21,5 @@ MAX_INFO_LENGTH = 256
 MESSAGE_REQUEST_NOT_FOUND = "Requisicao nao encontrada!"
 
 # Arquivos de log
-LOG_SERVER = "log_server"
-LOG_CLIENT = "log_client"
+LOG_SERVER = "server.log"
+LOG_CLIENT = "client.log"
